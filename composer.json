@@ -1,5 +1,5 @@
 {
-    "name": "millennium/swaggervel",
+    "name": "tayeb-ali/swaggervel",
     "description": "A great way to integrate Swagger into Laravel",
     "keywords": ["laravel", "swagger", "documentation", "api"],
     "license": "MIT",
